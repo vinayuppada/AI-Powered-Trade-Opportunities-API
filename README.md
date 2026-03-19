@@ -1,4 +1,8 @@
 # 🚀 AI-Powered Trade Opportunities API
+<img width="1919" height="867" alt="Screenshot 2026-03-19 123514" src="https://github.com/user-attachments/assets/36fc010c-d641-4d5e-8476-015edb927491" />
+<img width="1919" height="875" alt="Screenshot 2026-03-19 123546" src="https://github.com/user-attachments/assets/04360dcf-99ba-4c55-9826-4f661923138d" />
+<img width="1919" height="877" alt="Screenshot 2026-03-19 123621" src="https://github.com/user-attachments/assets/735f7fb7-d387-4bcf-acba-f0a1485fa175" />
+<img width="1918" height="872" alt="Screenshot 2026-03-19 123649" src="https://github.com/user-attachments/assets/bc8a079e-ed1f-4907-ac11-c8ab2581d386" />
 
 ## 📌 Overview
 
